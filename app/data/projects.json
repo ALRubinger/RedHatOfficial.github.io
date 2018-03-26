@@ -1153,12 +1153,6 @@
     "projectWebsite": "https://nfs-ganesha.github.io/",
     "category": "Operations"
   },
-  {
-    "projectName": "Obsidian Toaster",
-    "projectDescription": "Tools, Quickstarts, Generators of Cloud Native Applications running top of OpenShift",
-    "projectRepository": "https://github.com/obsidian-toaster",
-    "category": "Operations"
-  },
  {
     "projectName": "OCF-spec",
     "projectDescription": "Open Cluster Framework standards for high-availability clustering",
